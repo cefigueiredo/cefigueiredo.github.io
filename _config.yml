@@ -1,0 +1,13 @@
+# Site settings
+title: Carlos Figueiredo
+owner: Carlos Figueiredo
+email: carlos.figueiredo87@gmail.com
+description: "Desenvolvedor (atualmente Ruby on Rails). Frequentador assíduo de Coding Dojo, e facilmente encontrado as segundas-feiras no #HoraExtra."
+baseurl: ""
+url: "http://cefigueiredo.github.io"
+twitter_username: cefigueiredo
+github_username:  cefigueiredo
+
+# Build settings
+markdown: kramdown
+permalink: pretty

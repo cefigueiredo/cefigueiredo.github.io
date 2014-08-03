@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Bem vindo ao meu blog"
+date:   2014-08-03 18:48:02
+categories: jekyll update
+---
+
+Eu sou Carlos Figueiredo, sou desenvolvedor Ruby on Rails, e posso ser facilmente encontrado mensalmente nos eventos do [RubyOnRio][rubyonrio], e religiosamente as quartas feiras nas sessões de dojo do [#DojoRio][dojorio] e tão religiosamente quanto, as segundas-feiras na mesa de bar do SambaCafé nos encontros do [#HoraExtra][he].
+
+Este é meu primeiro post no meu primeiro blog, portanto ainda não tenho uma identidade forte para ele. Tampouco posso garantir os temas que serão abordados, pois pretendo abordar temas inerentes a minha carreira em TI, que por si só já é bem diversificada.
+
+Sou nascido da Infraestrutura, cresci domando SHELL e PL/SQL. Trilhei meu caminho encarando PL/SQL e SQL até onde estou. Acredito que toda linguagem é válida. Só não acredito em balas de prata, pois não é porquê conhecemos ou dominamos só uma técnica/tecnologia, que é a melhor a ser utilizada em qualquer situação.
+
+Por consequência, acredito fortemente que muitas tecnologias que são mal-vistas hoje em dia, seja por sua verbosidade ou restrições, ainda têm seu espaço, e muitas vezes são as melhores opções para algumas situações. Sim, falo de Java, SQL e até do Delphi... que para as áreas onde servem bem têm concorrencia de mesmo nível, mas dificilmente podem ser substituídas sem perda de desempenho ou simplicidade. Apesar que também não acho que estas linguagens servem para tudo! (Talvez SQL, que mora no meu coração... e bem, tenho mais dúvidas da real necessidade do uso de bancos no-SQL do que SQL)
+
+Enfim! É meu primeiro post, no meu primeiro blog, e não pretendo começar com um tema com grandes chances de gerar Flame war, como este. Talvez posteriormente, mas agregando mais informações para fazer um post com propriedade. Por hora, pretendo escrever sobre temas que tenho visto na minha carreira, da qual me orgulho de ter sido banhado em áreas diversas como: Suporte, Infraestrutura e Desenvolvimento. 
+
+Portanto, se prepare para ler temas diversificados! Não pretendo polemizar, nem ser massante, e como imagino que meu público será em sua maioria de desenvolvedores ou quem quer migrar para tal como eu fiz, juro ao menos tentar estabelecer um elo entre as áreas quando possível. Mas nem sempre conseguirei agradar gregos e troianos.
+
+Espero que gostem!
+
+[rubyonrio]: http://rubyonrio.org
+[dojorio]: http://dojorio.org
+[he]: https://groups.google.com/forum/#!forum/horaextra 
