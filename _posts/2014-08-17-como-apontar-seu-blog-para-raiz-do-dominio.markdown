@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Como apontar seu blog para raiz do domínio"
-date:   2014-08-16 22:50:02
+date:   2014-08-17 17:23:32
 categories: infrastructure dns tips
 ---
 
