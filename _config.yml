@@ -4,7 +4,7 @@ owner: Carlos Figueiredo
 email: carlos.figueiredo87@gmail.com
 description: "Desenvolvedor (atualmente Ruby on Rails). Frequentador assíduo de Coding Dojo, e facilmente encontrado as segundas-feiras no #HoraExtra."
 baseurl: ""
-url: "http://cefigueiredo.github.io"
+url: "http://cefig.net"
 twitter_username: cefigueiredo
 github_username:  cefigueiredo
 
@@ -14,3 +14,5 @@ permalink: pretty
 
 kramdown:
   input: GFM
+
+permalink: /blog/:year/:month/:day/:title
