@@ -11,3 +11,6 @@ github_username:  cefigueiredo
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+kramdown:
+  input: GFM
