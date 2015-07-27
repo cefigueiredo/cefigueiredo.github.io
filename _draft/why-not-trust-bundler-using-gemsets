@@ -1,0 +1,5 @@
+---
+layout: post
+title:  "Por que não confiar no Bundler e usar Gemsets"
+categories: bundler tips bugs
+---
